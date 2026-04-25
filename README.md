@@ -44,3 +44,8 @@ For Airlines (Pricing Intelligence)
 .SpiceJet has the fewest flights (3% share) — underutilized route capacity
 .Demand surge in the final booking week is an opportunity for dynamic pricing optimization
 .Chennai-Bangalore route has highest avg price (₹25,100) — potential for budget carrier entry
+
+
+NOTE: This repository includes two versions of the Dashboards:
+          -A manually built Excel Dashboard and
+          -AI-enhanced ExcelDashboard for improved insights and decision-Making.
